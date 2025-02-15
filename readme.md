@@ -3,9 +3,11 @@
 [Intellij Idea Community](https://www.jetbrains.com/idea/download/?section=windows)
 
 
-# git
+## git 
 
 git init
-git add
+git add .
 git commit -m "add message"
 git push -u origin master
+
+git clone  https://github.com/senaozcann/ilkproje.git
